@@ -8,6 +8,13 @@ a {
   font-size: 1.3rem;
 }
 
+.logo {
+  color: black !important;
+}
+.logo span {
+  color: red;
+}
+
 .hero-img {
   position: absolute;
   top: 0;
